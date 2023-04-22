@@ -2,7 +2,7 @@ LINEAR REGRESSION: Linear regression is a statistical method for modeling relati
 Simple linear regression is an approach for predicting a response using a single feature. 
 In order to provide a basic understanding of linear regression, we start with the most basic version of linear regression, i.e. Simple linear regression.
 
-REGRESSION-PREDICTION-OF-SOLAR:
+REGRESSION-PREDICTION-OF-BodyFat:
 I'm predict BodyFAt Dataset using Simple Linear Regression: START: I get dependent variable is BodyFat columns and independent variable is wrist columns. 
 Then unwanted coulums are deleted using DROP key.
 locate and reshape the values of X and Y. Then using the MatPlotLib to visible a Scatter plot of X,Y.
